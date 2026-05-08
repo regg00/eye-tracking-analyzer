@@ -43,4 +43,3 @@ tzdata==2025.2
 wcwidth==0.2.13
 pytest==8.3.5
 pytest-mock==3.14.0
-respx==0.22.0
